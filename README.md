@@ -60,28 +60,28 @@ To use the emulator:
 
 ## **ROMS**
 
--INVADERS: 
+- INVADERS: 
   - start the game using W
   - left: Q
   - right: E
   - W: shoot
 
--BRIX: 
+- BRIX: 
   - Q to move left
   - E to move right
 
--PONG: 2 player game
+- PONG: 2 player game
   - Player1: 1 and Q to move up and down
   - Player2: 4 and R to move up and down
 
--TANK: 
+- TANK: 
   - 2 to move down
   - Q to turn left
   - E to turn right
   - S to move up
   - W to fire
 
--TETRIS: 
+- TETRIS: 
  - W to move left
  - E to move right
  - Q to rotate piece
