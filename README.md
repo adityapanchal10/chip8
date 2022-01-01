@@ -56,7 +56,7 @@ To use the emulator:
 
 ## **Display**
 
-- Use SDL to render and get input in a multiplatfrom way.
+- Used SDL to render and get input in a multiplatfrom way.
 
 ## **ROMS**
 
