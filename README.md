@@ -1,11 +1,11 @@
-#chip8
+chip8
 =====
 
 Chip8 is a small emulator for the CHIP-8 interpreter language used in the COSMAC VIP and Telmac 1800 system.
 
 This implementation uses C++ for the core functionality and a SDL2 backend completes the emulator with sound, keyboard input and GL display
 
-##Introduction
+#Introduction
 
 - Chip-8 is more of a virtual machine than a physical one.
 
@@ -15,7 +15,7 @@ This implementation uses C++ for the core functionality and a SDL2 backend compl
 
 - It was made to allow video games more easily programable for these machines as games written in chip8 language could easily run using the chip8 emulator.
 
-##Description
+#Description
 
 - 16 8bit registers labeled from V0 to VF, VF is special as it is used as flag.
 
@@ -40,17 +40,17 @@ This implementation uses C++ for the core functionality and a SDL2 backend compl
 
 - 16 input keys which match the first 16 hex values (0 through F).
 
-##Instructions
+#Instructions
 
 - 34/35 instructions in total. Eg: '00E0: CLS' to clear the display.
 
 - 3 cycles: fetch, decode and excecute.
 
-##Display
+#Display
 
 - Use SDL to render and get input in a multiplatfrom way.
 
-##ROMS
+#ROMS
 
 -INVADERS: start the game using W
         left: Q
