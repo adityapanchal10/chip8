@@ -7,6 +7,12 @@ This implementation uses C++ for the core functionality and a SDL2 backend compl
 
 To install the SDL2 library, use `sudo apt-get install libsdl2-dev` (for Ubuntu).
 
+To use the emulator:
+
+- Run the make file using `make` (first time only)
+
+- `./chip8 <rom>` to load the ROM specified. (see the roms folder)
+
 ## **Introduction**
 
 - Chip-8 is more of a virtual machine than a physical one.
