@@ -82,6 +82,6 @@ To use the emulator:
   - W to fire
 
 - TETRIS: 
- - W to move left
- - E to move right
- - Q to rotate piece
+  - W to move left
+  - E to move right
+  - Q to rotate piece
