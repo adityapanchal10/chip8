@@ -52,7 +52,7 @@ To use the emulator:
 
 - 34/35 instructions in total. Eg: '00E0: CLS' to clear the display.
 
-- 3 cycles: fetch, decode and excecute.
+- 3 cycles: fetch, decode and execute.
 
 ## **Display**
 
