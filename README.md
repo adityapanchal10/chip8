@@ -1,6 +1,9 @@
 chip8
 =====
 
+![chip8](https://github.com/adityapanchal10/chip8/blob/main/chip8.jpg "chip8 image")
+
+
 Chip8 is a small emulator for the CHIP-8 interpreter language used in the COSMAC VIP and Telmac 1800 system.
 
 This implementation uses C++ for the core functionality and a SDL2 backend completes the emulator with sound, keyboard input and GL display.
